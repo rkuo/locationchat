@@ -1,4 +1,4 @@
-Web UI Framework 
+# Web UI Framework Study for Class Project
 
 The note presents a short research on selecting UI platform for TalkAbout app. There are many factors affects an UI platform selection and this is a selection for implementing very specific app-TalkAbout. 
 
@@ -39,7 +39,6 @@ Disclaimer: I only have limited hands on experience of Bootstrap and JQM, and so
 - Bootstrap-3 will be released in about 3 weeks, which claims "mobile first". It has few additional enhancements.
 - There is additinal layout service from Bootply.com, which provides very smooth layout experience. 
 - The grid systems are fluid by default.
-
 
 ### Sencha
 
